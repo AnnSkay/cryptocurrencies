@@ -62,7 +62,7 @@ function GetCurrencies() {
             </CSVLink>
           </div>
         ) : 
-        (null)
+        null
       }
       
       {/*создание карточек криптовалют*/} 
