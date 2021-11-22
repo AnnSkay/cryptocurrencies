@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // импорт хука состояния
 import { useState } from 'react';
-// импорт библиотеку axios
+// импорт библиотеки axios
 import axios from 'axios';
 // импорт ссылки для экпорта файлов
 import { CSVLink } from 'react-csv';
